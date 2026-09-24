@@ -1,0 +1,35 @@
+
+> dev
+> vp dev
+
+Inertia SSR dev endpoint: /__inertia_ssr
+[2m9:01:38 PM[22m [36m[1m[vite+][22m[39m [90m[2m(client)[22m[39m info: Types generated for actions, routes, form variants
+  Plugin: [35m@laravel/vite-plugin-wayfinder[39m
+Warming up Inertia SSR module graph...
+
+  [34m[1mVITE+[22m v0.3.0[39m  
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+
+  [31m[1mLARAVEL[22m v13.30.0[39m  [2mplugin[22m [1mv3.2.0[22m
+
+  [32m➜[39m  [1mAPP_URL[22m: [36mhttp://localhost:[1m8000[22m[39m
+Inertia SSR module graph warmed up
+[32m2026-09-19 04:08:35[0m SSR welcome [90m37.93ms[0m
+[32m2026-09-19 04:08:50[0m SSR welcome [90m7.83ms[0m
+[32m2026-09-19 04:08:50[0m SSR welcome [90m9.96ms[0m
+[32m2026-09-19 04:09:11[0m SSR welcome [90m7.87ms[0m
+[32m2026-09-19 04:09:20[0m SSR welcome [90m7.27ms[0m
+[2m9:13:17 PM[22m [36m[1m[vite+][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/resources/css/app.css?direct[22m
+[2m9:13:47 PM[22m [36m[1m[vite+][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@id/C:/Users/Administrator/Herd/rent-car/resources/js/pages/welcome.tsx, /resources/css/app.css?direct[22m
+[2m9:13:47 PM[22m [36m[1m[vite+][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2mresources/js/pages/welcome.tsx[22m
+[2m9:14:12 PM[22m [36m[1m[vite+][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@id/C:/Users/Administrator/Herd/rent-car/resources/js/pages/welcome.tsx, /resources/css/app.css?direct[22m
+[2m9:14:12 PM[22m [36m[1m[vite+][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2mresources/js/pages/welcome.tsx[22m
+[2m9:14:33 PM[22m [36m[1m[vite+][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mresources/js/pages/cars/index.tsx[22m
+[2m9:14:33 PM[22m [36m[1m[vite+][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2mresources/js/pages/cars/index.tsx[22m
+[32m2026-09-19 04:14:34[0m SSR auth/login [90m411.83ms[0m
+[2m9:14:58 PM[22m [36m[1m[vite+][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@id/C:/Users/Administrator/Herd/rent-car/resources/js/pages/cars/index.tsx[22m
+[32m2026-09-19 04:16:13[0m SSR welcome [90m49.43ms[0m
+[32m2026-09-19 04:16:18[0m SSR welcome [90m33.12ms[0m
+[32m2026-09-19 04:16:38[0m SSR cars/index [90m106.64ms[0m
